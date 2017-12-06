@@ -39,7 +39,7 @@
             android:layout_marginLeft="5dp"
             android:digits="1234567890."
             android:text="39.8789"
-            />
+            android:id="@+id/D0" />
         </LinearLayout>
         <LinearLayout
             android:layout_width="wrap_content"
