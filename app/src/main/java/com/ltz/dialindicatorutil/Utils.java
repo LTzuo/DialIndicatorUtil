@@ -151,7 +151,7 @@ public class Utils {
         }
         double V2;
      //   V2 = V1 - a1 + a2
-          V2 = DecCalUtil.add(DecCalUtil.add(V1,a1),a2);
+          V2 = DecCalUtil.add(DecCalUtil.sub(V1,a1),a2);
         DecimalFormat formater = new DecimalFormat();
         //保留几位小数
         formater.setMaximumFractionDigits(4);
