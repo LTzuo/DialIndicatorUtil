@@ -57,6 +57,7 @@
                 android:layout_height="wrap_content"
                 android:text="0.083"
                 android:digits="1234567890."
+                android:id="@+id/DLR"
                 />
         </LinearLayout>
     </LinearLayout>
@@ -97,6 +98,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:digits="1234567890."
+                    android:id="@+id/V1"
+                    android:text="0"
                     />
             </LinearLayout>
             <LinearLayout
@@ -116,6 +119,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:digits="1234567890."
+                    android:id="@+id/R1"
+                    android:text="0"
                     />
             </LinearLayout>
         </LinearLayout>
@@ -149,6 +154,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:digits="1234567890."
+                    android:id="@+id/V2"
+                    android:text="0"
                     />
             </LinearLayout>
             <LinearLayout
@@ -168,6 +175,8 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
                     android:digits="1234567890."
+                    android:text="0"
+                    android:id="@+id/R2"
                     />
             </LinearLayout>
         </LinearLayout>
