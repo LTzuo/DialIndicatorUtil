@@ -1,6 +1,5 @@
-# DialIndicatorUtil
-千分表测量球面半径工具
+###效果图
 
 
-![效果图]（file///C:\Users\1\Desktop\QQ图片20171207132324.png）
+![效果图](http://upload-images.jianshu.io/upload_images/7077845-8ce7acc082c55222.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/680)
 
